@@ -1,0 +1,62 @@
+p
+{
+	font-size: 26px;
+}
+p
+{
+	font-family: Verdana;
+}
+h1
+{
+	text-decoration: underline;
+}
+h1
+{
+	text-align: center;
+background-color: white;
+}
+.flottant
+{
+ float: left;
+}
+h3
+{
+	color: mediumpurple;
+}
+body
+{
+	background: aquamarine;
+background-position: top right;
+
+}
+img
+{
+	height: 200px;
+	width: 200px;
+}
+h1
+{
+	border-top: 3px yellow groove;
+	border-radius: 20px / 20px;
+	box-shadow: 10px 10px 10px black ;
+	text-shadow: 10px 10px 10px black;
+
+}
+p:hover
+{
+	border-left:10px solid white ;
+}
+.aliment{
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
+}
+.blocArticle{
+	display: flex;
+}
+article{
+	margin: 0 0.5rem;
+}
+article button{
+	cursor: pointer;
+}
